@@ -22,7 +22,6 @@ Linters:
 - `dev`: runs your application on `localhost:3000`
 - `build`: creates the production build version
 - `start`: starts a simple server with the build production code
-- `lint`: runs the linter in all components and pages
 - `typecheck`: runs the typecheck to check types all components and pages
 - `generate`: creates a base template for the components (index - styles - stories)
 - `storybook`: runs storybook on `localhost:6006`
