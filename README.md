@@ -10,7 +10,6 @@ Styles:
 
 Support:
 - [Storybook](https://storybook.js.org/)
-- [Husky](https://typicode.github.io/husky)
 - [Plop](https://plopjs.com/)
 
 Linters:
